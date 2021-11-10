@@ -1,0 +1,70 @@
+body{
+  text-align:center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  background-color: grey;
+  font-size: 1em;
+
+}
+h1{color: #66BFBF;
+  margin-left: 50 auto 0 auto;
+  border: 20;
+
+  font-family: 'Sacramento', cursive;
+ }
+.top{
+  background-color: grey;
+  padding-top:128px;
+
+}
+.middle{
+  margin-bottom: 0px;
+  margin-top: 10px;
+
+}
+
+.last {
+
+
+
+
+}
+.this{
+  color: yellow;
+}
+.cloud-top{
+  margin-left: 500px;
+}
+.cloud-bottom{
+  position: absolute;
+  margin-bottom: 500px;
+}
+.Personal2{
+  background-color: grey;
+  width: 50%;
+  margin: 100 auto;
+
+
+  }
+
+.3{
+  background-color: grey;
+}
+.this1{
+  font-size: 2.5rem;
+  font-weight: normal;
+  line-height: 0;
+}
+h2{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+.2nd{
+  width: 100rem;
+  margin-left: 50px;
+
+
+
+}
